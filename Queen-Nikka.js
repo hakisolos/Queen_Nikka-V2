@@ -365,7 +365,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: botname,
 body: ownername,
-thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
 sourceUrl: websitex
 },
 },
@@ -3332,7 +3332,7 @@ case 'block': case 'ban': {
                                 showAdAttribution: true,
                                 title: botname,
                                 body: `Sent in ${i.length} Group`,
-                                thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+                                thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
                                 sourceUrl: wagc,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -5919,7 +5919,7 @@ break
                             showAdAttribution: true,
                             title: botname,
                             body: ownername,
-                            thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+                            thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
                             sourceUrl: wagc,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -5957,7 +5957,7 @@ break
                                 showAdAttribution: true,
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+                                thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
                                 sourceUrl: wagc,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -5973,7 +5973,7 @@ break
                                 showAdAttribution: true,
                                 title: botname,
                                 body: ownername,
-                                thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+                                thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
                                 sourceUrl: wagc,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
@@ -5994,7 +5994,7 @@ break
                             showAdAttribution: true,
                             title: botname,
                             body: ownername,
-                            thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+                            thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
                             sourceUrl: wagc,
                             mediaType: 1,
                             renderLargerThumbnail: true
@@ -18697,7 +18697,7 @@ break;
             let latensie = speed() - timestampe
             let a = db.data.users[sender]
             let me = m.sender
-            let xmenu_oh = `xeonbody = ╭━━━⭑👑⭑━━━━━━━━━╮
+            let xmenu_oh = xeonbody = `╭━━━⭑👑⭑━━━━━━━━━╮
 ┃🌺 「 𝑮𝒓𝒆𝒆𝒕𝒊𝒏𝒈𝒔 👋 」 
 ┃✨ 「 𝑴𝒂𝒋𝒆𝒔𝒕𝒚: ${pushname} 」 
 ┃🌸 𝑻𝒉𝒊𝒔 𝒅𝒂𝒚 𝒃𝒓𝒊𝒏𝒈𝒔: 
@@ -18855,7 +18855,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -18880,7 +18880,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -19008,7 +19008,7 @@ let msg = generateWAMessageFromContent(m.chat, {
         },
         interactiveMessage: proto.Message.InteractiveMessage.create({
           body: proto.Message.InteractiveMessage.Body.create({
-            text: xmenu_oh2
+            text: xmenu_oh
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
             text: botname
@@ -19257,7 +19257,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -19283,7 +19283,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -19587,7 +19587,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -19613,7 +19613,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -19896,7 +19896,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -19922,7 +19922,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -20201,7 +20201,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -20227,7 +20227,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -20517,7 +20517,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -20543,7 +20543,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -20867,7 +20867,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -20893,7 +20893,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -21217,7 +21217,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -21243,7 +21243,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -21567,7 +21567,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -21593,7 +21593,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -21803,7 +21803,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -21829,7 +21829,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -22114,7 +22114,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -22140,7 +22140,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -22464,7 +22464,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -22490,7 +22490,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -22814,7 +22814,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -22840,7 +22840,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -23164,7 +23164,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -23190,7 +23190,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -23514,7 +23514,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -23540,7 +23540,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -23864,7 +23864,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -23890,7 +23890,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -24214,7 +24214,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -24240,7 +24240,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -24564,7 +24564,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -24590,7 +24590,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -24914,7 +24914,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -24940,7 +24940,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -25264,7 +25264,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -25290,7 +25290,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -25614,7 +25614,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -25640,7 +25640,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
@@ -25964,7 +25964,7 @@ if (typemenu === 'v1') {
       externalAdReply: {
       title: botname,
       body: ownername,
-      thumbnailUrl: 'https://imgur.com/a/NvxRvxz',
+      thumbnailUrl: 'https://files.catbox.moe/bh2fpj.jpg',
       sourceUrl: ``,
       mediaType: 1,
       renderLargerThumbnail: true
@@ -25990,7 +25990,7 @@ externalAdReply: {
 showAdAttribution: true,
 title: ownername,
 body: botname,
-thumbnailUrl: "https://imgur.com/a/NvxRvxz",
+thumbnailUrl: "https://files.catbox.moe/bh2fpj.jpg",
 sourceUrl: websitex,
 mediaType: 1,
 renderLargerThumbnail: true
