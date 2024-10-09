@@ -41,7 +41,7 @@ global.mess = {
     success: 'Here you go👑!'
 }
 //thumbnail
-global.thumb = fs.readFileSync('./XeonMedia/theme/nikkapic.jpg')
+global.thumb = fs.readFileSync('./Nikkamedia/theme/nikkapic.jpg')
 
 //text bug
 global.xbugtex = {
