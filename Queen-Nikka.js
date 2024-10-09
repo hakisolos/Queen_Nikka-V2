@@ -18697,7 +18697,7 @@ break;
             let latensie = speed() - timestampe
             let a = db.data.users[sender]
             let me = m.sender
-            let xmenu_oh2 = `xeonbody = ╭━━━⭑👑⭑━━━━━━━━━╮
+            let xmenu_oh = `xeonbody = ╭━━━⭑👑⭑━━━━━━━━━╮
 ┃🌺 「 𝑮𝒓𝒆𝒆𝒕𝒊𝒏𝒈𝒔 👋 」 
 ┃✨ 「 𝑴𝒂𝒋𝒆𝒔𝒕𝒚: ${pushname} 」 
 ┃🌸 𝑻𝒉𝒊𝒔 𝒅𝒂𝒚 𝒃𝒓𝒊𝒏𝒈𝒔: 
@@ -18921,11 +18921,11 @@ let msg = generateWAMessageFromContent(from, {
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"CHANNEL👑\",\"url\":\"https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"CHANNEL👑\",\"url\":\"https://whatsapp.com/channel/0029VaoLotu42DchJmXKBN3L\",\"merchant_url\":\"https://www.google.com\"}"
               },
               {
                  "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"REPO\",\"url\":\"https://github.com/hakisoloz\",\"merchant_url\":\"https://www.google.com\"}"
+                 "buttonParamsJson": "{\"display_text\":\"REPO\",\"url\":\"https://github.com/hakisolos\",\"merchant_url\":\"https://www.google.com\"}"
               },                        
            ],
            
@@ -21970,9 +21970,7 @@ let msg = generateWAMessageFromContent(m.chat, {
 }]
 }`
               },
-              {
-                 "name": "cta_url",
-                 "buttonParamsJson": "{\"display_text\":\"YouTube 🌹\",\"url\":\"https://youtube.com/hakisoloz\",\"merchant_url\":\"https://www.google.com\"}"
+              
          
               {
                  "name": "cta_url",
